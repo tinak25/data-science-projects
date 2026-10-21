@@ -7,6 +7,7 @@ Machine learning and modelling projects in Python. Each folder is a self-contain
 | Project | What it answers | Tools |
 |---|---|---|
 | [IoT Network Attack Detection](iot-attack-classification/) | Can a model detect IoT attacks from traffic behaviour, or is it just reading port numbers? | Python, scikit-learn, XGBoost, pandas |
+| [Heart Disease Prediction](heart-disease-prediction/) | Does a published 98.5% stacking model hold up, or is it duplicate leakage? | Python, scikit-learn, XGBoost, pandas |
 
 ## Running a project
 
