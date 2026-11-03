@@ -60,6 +60,6 @@ The notebook runs in a couple of minutes.
 [2] A. Janosi, W. Steinbrunn, M. Pfisterer and R. Detrano, "Heart Disease," UCI Machine Learning Repository, 1988, doi: 10.24432/C52P4X.
 
 ---
-Originally built for a machine learning unit at Deakin University, then rebuilt to investigate the published results.
+Built for a machine learning unit at Deakin University, then extended to investigate the published results.
 
 [← Back to all projects](../README.md)

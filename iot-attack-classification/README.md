@@ -68,6 +68,6 @@ The full notebook takes about 50 minutes on a 2-core machine, mostly because of 
 ```
 
 ---
-Originally built for a machine learning unit at Deakin University, then rebuilt with corrected evaluation and the port-feature experiment.
+Built for a machine learning unit at Deakin University, then extended with corrected evaluation and the port-feature experiment.
 
 [← Back to all projects](../README.md)
